@@ -6,8 +6,8 @@
 - 📫 How to reach me **jobskiandrade@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nicojobski/](https://www.linkedin.com/in/nicojobski/)
-
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,linux,windows)](https://skillicons.dev)]
+  
 <h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,linux,windows)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicojobski&theme=dark" alt="nicojobski" /></p>
