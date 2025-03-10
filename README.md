@@ -8,4 +8,3 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/nicojobski/](https://www.linkedin.com/in/nicojobski/)
 
   [![Languagues and tools](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,linux,windows)](https://skillicons.dev)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicojobski&theme=dark" alt="nicojobski" /></p>
